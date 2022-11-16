@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PinakPriyam
 - 👀 I’m interested in machine learning, doing open source projects
 - 🌱 I’m currently learning Python , java & C++
-- 💞️ I’m looking to collaborate on machine learning projects
+- 💞️ I’m looking to collaborate on embedded system projects
 - 📫 How to reach me pinakpriyambaruah@gmail.com
 
 <!---
